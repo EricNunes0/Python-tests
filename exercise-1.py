@@ -24,4 +24,4 @@ while proceed == True:
         proceed = False
         print("🔴 Programa encerrado!")
     else:
-        print("❌ Ação inválida!")
+        print("🍎 Ação inválida!")
