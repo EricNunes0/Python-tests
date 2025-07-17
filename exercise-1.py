@@ -22,6 +22,6 @@ while proceed == True:
             print(conteudo)
     elif act == 3:
         proceed = False
-        print("🔴 Programa finalizado!")
+        print("⚫ Programa finalizado!")
     else:
         print("❌ Ação inválida!")
